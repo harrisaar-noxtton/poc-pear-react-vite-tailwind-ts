@@ -10,7 +10,7 @@ export default defineConfig({
       include: 'src/**'
     },
     rollupOptions: {
-      input: './src/index.jsx',
+      input: './src/index.tsx',
       output: {
         entryFileNames: `main/index.js`,
         chunkFileNames: `main/[name].js`,
