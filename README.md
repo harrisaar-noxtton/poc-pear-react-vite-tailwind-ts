@@ -1,8 +1,8 @@
-# poc-pear-react-vite-tailwind
+# poc-pear-react-vite-tailwind-ts
 
-Use JSX when working with Pear Desktop Apps.
+It's a fork from "poc-pear-react-vite-tailwind".
 
-This project is an example to demonstrate how to set up a Pear Desktop App using React and Vite with Tailwind CSS.
+This project showcases the integration of TypeScript and JSX with Vite and Tailwind CSS for building Pear Desktop Applications.
 
 ## Running the Project
 

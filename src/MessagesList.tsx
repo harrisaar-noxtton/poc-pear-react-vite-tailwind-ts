@@ -1,5 +1,6 @@
 import { FC } from 'react'
 import { MessageEntry } from './MessageEntry'
+import { AlertButton } from './AlertButton'
 
 interface Message {
   createdAt: string
@@ -30,5 +31,6 @@ export const MessagesList: FC = () => (
     {messages.map((message, index) => (
       <MessageEntry key={index} message={message} />
     ))}
+    <AlertButton />
   </div>
 )
