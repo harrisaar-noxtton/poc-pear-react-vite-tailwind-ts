@@ -1,5 +1,7 @@
 # poc-pear-react-vite-tailwind-ts
 
+Target platform: Desktop
+
 It's a fork from "poc-pear-react-vite-tailwind".
 
 This project showcases the integration of TypeScript and JSX with Vite and Tailwind CSS for building Pear Desktop Applications.
